@@ -13,4 +13,4 @@ Always eager to become a better developer. 🌍 Based in Spain | 🇪🇸🇩�
 - Web/front-end UIs with React & Next.js  
 - Backend & services in Java + Spring Boot  
 
-Let’s connect → [LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/miguelcorreaavila/)) | [Website](https://correa-avila.com)
+Let’s connect → [LinkedIn](https://www.linkedin.com/in/miguelcorreaavila/) | [Website](https://correa-avila.com)
